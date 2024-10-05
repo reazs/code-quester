@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" fill="none">
+  <!-- Code Icon (black color) -->
+  <polyline points="35 36 44 24 35 12" fill="none" stroke="#257180" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <polyline points="13 12 4 24 13 36" fill="none" stroke="#257180" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Git Branch Icon (green color) -->
+  <g transform="translate(12, 12)">
+    <line x1="6" x2="6" y1="3" y2="15" stroke="#D91656" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="18" cy="6" r="3" fill="none" stroke="#00CCDD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="6" cy="18" r="3" fill="none" stroke="#00CCDD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M18 9a9 9 0 0 1-9 9" fill="none" stroke="#D91656" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
